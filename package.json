@@ -1,0 +1,20 @@
+{
+  "name": "thpii-jenkins-repo",
+  "version": "1.0.0",
+  "description": "A demonstration repo/project for THPII jenkins infra project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"running (fake) test...\"",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grokible/thpii-jenkins-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grokible/thpii-jenkins-repo/issues"
+  },
+  "homepage": "https://github.com/grokible/thpii-jenkins-repo#readme"
+}
